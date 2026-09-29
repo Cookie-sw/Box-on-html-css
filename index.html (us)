@@ -1,0 +1,12 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title> box </title>
+</head>
+<body>
+<link rel="stylesheet" href="index.css">
+<div class="box">
+     box
+</div>
+</body>
+</html>
